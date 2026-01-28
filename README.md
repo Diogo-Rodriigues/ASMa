@@ -36,7 +36,7 @@ This project implements a Multi-Agent System (MAS) to simulate a theme park envi
 1.  **Clone the repository**:
     ```bash
     git clone <repository_url>
-    cd ASMa-GRUPO6
+    cd ASMa
     ```
 
 2.  **Install dependencies**:
@@ -87,4 +87,5 @@ ASMa-GRUPO6/
 ├── ParkLayout.json         # Configuration file for park entities and positions
 └── requirements.txt        # Python dependencies
 └── report.pdf              # Project report
+
 ```
