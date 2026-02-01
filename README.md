@@ -1,5 +1,8 @@
 # ASMa: Theme Park Multi-Agent System
 
+> [!NOTE]
+> This is a brief summary of the project. For detailed information, full architecture explanation, and performance analysis, please refer to the [**Project Report**](report.pdf).
+
 ## Context and Objectives
 This project implements a Multi-Agent System (MAS) to simulate a theme park environment. It was developed to explore the conception and implementation of intelligent agents capable of perceiving their environment, interpreting information, and making coordinated decisions.
 
@@ -89,3 +92,4 @@ ASMa-GRUPO6/
 └── report.pdf              # Project report
 
 ```
+
